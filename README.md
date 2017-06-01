@@ -13,6 +13,7 @@ Therefore, I want to give it a try to convert my C in arduino -> node.js
 * basic C/C++ on Arduino
 * basic microcontroller knowledge
 * basic JS, node.js
+* with terminal command (Shell/Bash)
 
 ## Materials
 * Arduino UNO
@@ -27,6 +28,9 @@ Therefore, I want to give it a try to convert my C in arduino -> node.js
 ## Library used
 * [Firmata](https://www.arduino.cc/en/reference/firmata)
 * [Johnny-Five](http://johnny-five.io)
+
+## License
+MIT License. Refer to [LICENSE.txt](/LICENSE.txt)
 
 ## Contributor
 * [Lai](http://github.com/superoo7")
