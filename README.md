@@ -2,7 +2,7 @@
 ## Background
 I was inspired by a video done by google. The speaker used a certain "recipe" which is basically connected Arduino to the internet.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_RjfoNnxKGA" frameborder="0" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/_RjfoNnxKGA/0.jpg)](https://youtu.be/_RjfoNnxKGA)
 
 She uses [FireBase](https://firebase.google.com) as a NoSQL database.
 
