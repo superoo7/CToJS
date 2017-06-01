@@ -25,6 +25,12 @@ Therefore, I want to give it a try to convert my C in arduino -> node.js
 * Arduino IDE for basic arduino
 * Vim in iTerm (editting in JS)
 
+## Table Of Content
+**[ Chapter 0: Setup]()
+**[ Chapter 1: About Arduino and Firmata]()
+**[ Chapter 2: ]()
+**[ Chapter 3: ]()
+**[ Chapter 4: ]()
 ## Library used
 * [Firmata](https://www.arduino.cc/en/reference/firmata)
 * [Johnny-Five](http://johnny-five.io)
